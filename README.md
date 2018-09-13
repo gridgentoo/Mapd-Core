@@ -1,3 +1,6 @@
+[Tesla & CaffeOnSpark] датасет о поездках такси [1.2 billion NYC taxi rides in MapD]
+https://docs.google.com/document/d/1fAjRwQwz_iTSAJuDpE6OjFgX4t65PUR4kICDNCVWLNM/
+
 MapD Core
 =========
 
