@@ -11,6 +11,8 @@ MapD Core
 
 ![alt text](https://avatars.mds.yandex.net/get-zen_doc/56585/pub_5b4d00ad4c7c1f00a800a1cc_5b4d3e49308b2500aa49a9b2/scale_600) 
 
+Кусок тепловой карты рынка акций и индекса S&P500
+
 ![alt text](http://www.ekbforex.ru/_ld/4/42547347.png) 
 
 ![alt text](http://boexpert.ru/wp-content/uploads/2017/05/heat-04.png) 
