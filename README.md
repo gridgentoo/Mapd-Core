@@ -1,4 +1,4 @@
-MapD docker: add Dockerfile for building on CentOS 7 
+MapD docker: add Dockerfile for building on CentOS 7  
 https://github.com/gridgentoo/Mapd-Core/tree/master/docker
 
 [Tesla & CaffeOnSpark] датасет о поездках такси [1.2 billion NYC taxi rides in MapD]
