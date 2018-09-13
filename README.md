@@ -5,6 +5,9 @@ MapD Core
 =========
 ![alt text](https://www.mapd.com/globalassets/mapd-content/assets/static/blogs-images/alphabet-city-small.gif) 
 
+1.2 billion NYC taxi rides in MapD
+https://www.youtube.com/watch?v=XkYH5Drj4Iw
+
 ![alt text](https://i.ytimg.com/vi/LIrBtqHUWEs/maxresdefault.jpg) 
 
 ![alt text](https://smart-lab.ru/uploads/images/00/10/43/2012/11/05/7bdada.png) 
