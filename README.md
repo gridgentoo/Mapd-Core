@@ -7,6 +7,9 @@ MapD Core
 
 ![alt text](https://i.ytimg.com/vi/LIrBtqHUWEs/maxresdefault.jpg) 
 
+![alt text](http://boexpert.ru/wp-content/uploads/2017/05/heat-04.png) 
+Тепловая карта валют
+
 MapD Core is an in-memory, column store, SQL relational database that was designed from the ground up to run on GPUs.
 
 # Table of Contents
