@@ -3,6 +3,7 @@ https://docs.google.com/document/d/1fAjRwQwz_iTSAJuDpE6OjFgX4t65PUR4kICDNCVWLNM/
 
 MapD Core
 =========
+![alt text](https://i.ytimg.com/vi/LIrBtqHUWEs/maxresdefault.jpg) 
 
 MapD Core is an in-memory, column store, SQL relational database that was designed from the ground up to run on GPUs.
 
