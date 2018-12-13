@@ -4,7 +4,7 @@ https://github.com/gridgentoo/Mapd-Core/tree/master/docker
 [Tesla & CaffeOnSpark] датасет о поездках такси [1.2 billion NYC taxi rides in MapD]
 https://docs.google.com/document/d/1fAjRwQwz_iTSAJuDpE6OjFgX4t65PUR4kICDNCVWLNM/
 
-MapD Core
+## MapD Core
 =========
 ![alt text](https://www.mapd.com/globalassets/mapd-content/assets/static/blogs-images/alphabet-city-small.gif) 
 
